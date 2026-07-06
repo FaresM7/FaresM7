@@ -42,7 +42,7 @@ I work at the intersection of AI and software engineering — but what drives me
 | Project | Stack | Description |
 |---------|-------|-------------|
 | 🗑️ **[Waste Sorting Assistant](https://github.com/arudaev/Painfully-Trivial/tree/main/streamlit_app)** | YOLO, OpenCV, Python | Real-time waste bin detection trained on 400+ labeled images |
-| ☕ **[Kaffeelisten](https://kaffeelisten.vercel.app)** | React, TypeScript, Vite, Supabase, Vercel | PWA replacing the paper coffee sheet at a coworking campus — 28 companies, 239 members, no login, sub-15-second logging. Automated monthly PDF + Excel reports via Vercel Cron. [Pitch deck](https://arudaev.github.io/kaffeelisten). Built at the B4Y3RW4LD Hackathon. |
+| ☕ **[Kaffeelisten](https://kaffeelisten.de/)** | React, TypeScript, Vite, Supabase, Vercel | PWA replacing the paper coffee sheet at a coworking campus — 28 companies, 239 members, no login, sub-15-second logging. Automated monthly PDF + Excel reports via Vercel Cron. [Pitch deck](https://arudaev.github.io/kaffeelisten). Built at the B4Y3RW4LD Hackathon. |
 | 🚢 **[Titanic ML Platform](https://github.com/random-iceberg/docker-compose)** | React, FastAPI, Supabase, Docker | Containerized ML web app with full CI/CD pipeline |
 | 🩺 **[Diapredictor](https://github.com/FaresM7/DiaPredictor)** | Streamlit, Rasa, scikit-learn | Diabetes risk assessment with a conversational chatbot |
 
